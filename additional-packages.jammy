@@ -3,9 +3,15 @@ libv4l-rkmpp
 malirun
 mesa-utils
 armbian-firmware-full
-chromium-browser
+firefox
+firefox-locale-th
 libwidevinecdm
-vim
+neovim
 grub-efi-arm64
 ubuntu-desktop
 gparted
+flameshot
+vlc
+vlc-l10n
+vlc-plugin-samba
+vlc-plugin-bittorrent
